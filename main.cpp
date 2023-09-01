@@ -349,7 +349,7 @@ int main() {
 		cout << "*******************************************************************" << endl;
 		cout << "*Notice 1: If you input 1, the file uvalue.txt will be regenerated." << endl;
 		cout << "*However, when you input 2/3, the file uvalue.txt is needed." << endl;
-		cout << "*So, if you first input 1, wait unti command-1 is finished before doing other experiments." << endl;
+		cout << "*So, if you first input 1, wait until command-1 is finished before doing other experiments." << endl;
 		cout << "*******************************************************************" << endl;
 		cout << "0 -> exit" << endl;
 		cout << "1 -> precomputation (contruct tables)" << endl;
